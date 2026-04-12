@@ -1,9 +1,42 @@
-### Hi there 👋
+### 👋 Hi there!
 
-Soy Oscar Sierra, actualmente estoy cursando el quinto semestre de Ingenieria de Sistemas.
+## 👨‍💻 Sobre mí
+Soy **Oscar Sierra**, estudiante de **Ingeniería de Sistemas (7° semestre)**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
-⌨️ LENGUAJES DE PROGRMACION 
----> Java 
+---
 
-🔊 IDIOMA
---> Español
+## 🚀 Tecnologías y herramientas
+
+### 💻 Lenguajes de programación
+- Java ☕
+- Python 🐍
+
+### 🌐 Desarrollo Web
+- Angular ⚡
+- React ⚛️
+- Ionic 📱
+
+### ⚙️ Backend
+- Spring Boot 🌱
+
+### 🗄️ Bases de datos
+- MySQL 🐬
+- PostgreSQL 🐘
+
+### 🛠️ Herramientas
+- Git 🔧
+- Postman 📬
+
+---
+
+## 🌎 Idiomas
+- Español (Nativo)
+- Ingles (Intermedio)
+---
+
+## 📈 Actualmente
+- 🎓 Cursando 7° semestre de Ingeniería de Sistemas
+- 💡 Aprendiendo y mejorando cada día en desarrollo full stack
+
+---
+
