@@ -1,3 +1,9 @@
+<!--
+CONFIG
+FULL_NAME: Oscar Guillermo Sierra Lozano
+GITHUB_USER: Oscarsl10
+-->
+
 ### 👋 Hi there!
 
 ## 👨‍💻 Sobre mí
