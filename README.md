@@ -7,7 +7,7 @@ GITHUB_USER: Oscarsl10
 ### 👋 Hi there!
 
 ## 👨‍💻 Sobre mí
-Soy **Oscar Sierra**, estudiante de **Ingeniería de Sistemas (7° semestre)**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+Soy **Oscar Sierra**, estudiante de **Ingeniería de Sistemas (8° semestre)**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
 ---
 
@@ -41,7 +41,7 @@ Soy **Oscar Sierra**, estudiante de **Ingeniería de Sistemas (7° semestre)**, 
 ---
 
 ## 📈 Actualmente
-- 🎓 Cursando 7° semestre de Ingeniería de Sistemas
+- 🎓 Cursando 8° semestre de Ingeniería de Sistemas
 - 💡 Aprendiendo y mejorando cada día en desarrollo full stack
 
 ---
